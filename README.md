@@ -9,7 +9,9 @@ It provides useful slash commands for custom pack requests, server information, 
 - `/prices` → Show price list for free & paid packs
 - `/portfolio` → Showcase example packs/addons
 - `/collab` → Info about partnerships
-- ˋ/mommyˋ -> talk to "mommy"
+- `/mommy` →  talk to "mommy"
+
+- and much more to come...
 
 ## Support
 Need help? Join our Discord: [Your Discord Invite Link](https://discord.gg/3DFgNY6VAS)
