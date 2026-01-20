@@ -14,7 +14,7 @@ It provides useful slash commands for custom pack requests, server information, 
 - and much more to come...
 
 ## Support
-Need help? Join our Discord: [Your Discord Invite Link](https://discord.gg/3DFgNY6VAS)
+Need help? Join our Discord: [Beamy Productions diacord](https://discord.gg/3DFgNY6VAS)
 
 ## Terms & Privacy
 Beamy Bot does not collect personal data and only uses Discord’s API to function.  
